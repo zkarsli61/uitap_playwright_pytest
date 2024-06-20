@@ -1,0 +1,10 @@
+.git
+.DS_Store
+.vscode
+.idea
+
+node_modules
+
+.pytest_cache
+<TemporaryDirectory '
+test-results
